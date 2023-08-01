@@ -1,0 +1,34 @@
+{
+    "events": [
+        {
+          "id": 5828181,
+          "category": 'race',
+          "title": 'Crit Race #5',
+          "description": '4 loop race on the 6th St. bridge',
+          "location": "6th St. Bridge",
+          "time": '8pm',
+          "petsAllowed": true,
+          "organizer": 'Lester Jones'
+        },
+        {
+          "id": 5828181,
+          "category": 'social ride',
+          "title": 'Sunset Ride',
+          "description": 'Get a ride in and watch the suset with fellow riders',
+          "location": "Griffith Park Helipad",
+          "time": 'Sunset',
+          "petsAllowed": true,
+          "organizer": 'Melissa Manful'
+        },
+        {
+          "id": 5828181,
+          "category": 'club ride',
+          "title": 'Trash Pandas',
+          "description": 'Ride all over the place at a spicy pace',
+          "location": "Spring & Grand",
+          "time": '8pm',
+          "petsAllowed": false,
+          "organizer": 'Raf'
+        },
+    ]
+}
